@@ -12,7 +12,7 @@ Swoft Limiter Component
 - composer command
 
 ```bash
-composer require swoft/limiter
+composer require swoft-fork/limiter
 ```
 
 ## Resources
